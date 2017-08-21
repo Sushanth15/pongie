@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30a89be4f269f6f4d820f10af15d3fd2
+timeCreated: 1499943232
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - winText: {instanceID: 0}
+  - button: {instanceID: 0}
+  - leftSide: {instanceID: 0}
+  - rightSide: {instanceID: 0}
+  - b1: {instanceID: 0}
+  - b2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
